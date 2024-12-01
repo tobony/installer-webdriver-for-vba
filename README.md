@@ -8,7 +8,7 @@ web driver를 설치합니다.
 
 <br><br>
 
-![image](https://github.com/user-attachments/assets/7ef8d07d-1545-4dbe-a20c-3cda40065ac1)
+<img width="744" alt="image" src="https://github.com/user-attachments/assets/d0fc7bcc-4604-4efe-b5bc-b754bddddfa9">
 
 
 <br><br>
