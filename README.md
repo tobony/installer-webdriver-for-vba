@@ -1,4 +1,4 @@
-# installer-webdriver-for-vba
+# installer-webdriver-for-selenium-basic
 
 web driver를 설치합니다.
 - chrome driver와
